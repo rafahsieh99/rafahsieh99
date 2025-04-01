@@ -18,7 +18,7 @@ Estoy enfocado en seguir perfeccionando mis habilidades a través de proyectos p
 Aquí puedes ver algunos de los proyectos en los que he estado trabajando. ¡No dudes en explorar y colaborar!
 
 - **bitcoin-forecasting**: Es una web en la cual se puede observar el comportamiento del precio del bitcoin a lo largo del tiempo y una proyeccion del mismo, se utilizo.
-- **Data-analysis-with-machine-learnign**: Un proyecto que se baso en machine learning.
+- **Data-analysis-with-machine-learning**: Un proyecto que se baso en machine learning.
 - **Microservicios**:Un conjunto de microservicios diseñados para gestionar productos e inventarios.
 
 (Recuerda agregar enlaces a tus repositorios de proyectos si los tienes listos)
