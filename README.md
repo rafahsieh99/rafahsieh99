@@ -21,7 +21,6 @@ Here are some of the projects I’ve been working on. Feel free to explore and c
 - **Data-analysis-with-machine-learning**: A project based on machine learning techniques for data analysis.
 - **Microservices**: A set of microservices designed to manage products and inventories.
 
-(Remember to add links to your project repositories if you have them ready)
 
 ## 📫 Connect with Me
 
